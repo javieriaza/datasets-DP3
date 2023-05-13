@@ -1,3 +1,4 @@
 # datasets-DP3
 Proyecto de Machine Learning, en este proyecto hemos solventado un problema de clasificación en el ámbito clinico.
-Tratando de predecir la variable Label
+Tratando de predecir la variable Label. 
+Hemos llevado a cabo un anaálisis exploratorio básico de los datos, la limpieza de los datos y un preprocesado de estos para utilizar un modelo de Machine Learning conocido como Random Forest.
